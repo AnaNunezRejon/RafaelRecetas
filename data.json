@@ -113,40 +113,6 @@
         "Se reparten en los 4 recipientes de horno y se meten en el horno 20 min. (aprox.) a 170°.",
         "Por ultimo, se desmoldan las tortas y se les echa por encima el azucar glass y la canela."
       ]
-    },
-    {
-      "id": 4,
-      "slug": "galletas-avena-coco",
-      "titulo": "Galletas de Avena y Coco",
-      "imagen": "assets/img/receta4.jpg",
-      "imagenThumb": "assets/img/receta4.jpg",
-      "html": "recetas/receta4.html",
-      "pdf": "assets/pdf/receta4.pdf",
-      "tiempo": 25,
-      "tiempoLabel": "25 min",
-      "tipo": "dulce",
-      "dificultad": "Facil",
-      "comensales": 10,
-      "descripcion": "Galletas crujientes de avena y coco con un toque de canela, perfectas para acompanar el cafe o el te.",
-      "ingredientes": [
-        {"nombre": "Avena en hojuelas", "cantidad": "300 gr"},
-        {"nombre": "Coco rallado", "cantidad": "150 gr"},
-        {"nombre": "Azucar moreno", "cantidad": "200 gr"},
-        {"nombre": "Mantequilla", "cantidad": "200 gr"},
-        {"nombre": "Huevos", "cantidad": "2 unidades"},
-        {"nombre": "Harina", "cantidad": "150 gr"},
-        {"nombre": "Canela en polvo", "cantidad": "1 cucharadita"},
-        {"nombre": "Levadura quimica", "cantidad": "1 sobre"},
-        {"nombre": "Esencia de vainilla", "cantidad": "1 cucharadita"}
-      ],
-      "pasos": [
-        "Precalentar el horno a 180°. Forrar una bandeja de horno con papel sulfurizado.",
-        "En un bol, mezclar la avena, el coco rallado, el azucar moreno, la harina, la canela y la levadura.",
-        "Anadir la mantequilla a temperatura ambiente en trozos, los huevos batidos y la esencia de vainilla. Mezclar bien hasta formar una masa homogenea.",
-        "Formar bolitas del tamano de una nuez con las manos y aplastarlas ligeramente sobre la bandeja, dejando espacio entre ellas.",
-        "Hornear a 180° durante 12-15 minutos, hasta que los bordes esten dorados.",
-        "Dejar enfriar en la bandeja 5 minutos antes de trasladarlas a una rejilla. Servir una vez esten completamente frias."
-      ]
     }
   ]
 }
