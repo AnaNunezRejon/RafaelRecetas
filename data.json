@@ -1,0 +1,152 @@
+{
+  "recetas": [
+    {
+      "id": 1,
+      "slug": "solomillo-encebollado",
+      "titulo": "Solomillo Encebollado con Setas",
+      "imagen": "assets/img/receta1.jpg",
+      "imagenThumb": "assets/img/receta1.jpg",
+      "html": "recetas/receta1.html",
+      "pdf": "assets/pdf/receta1.pdf",
+      "tiempo": 60,
+      "tiempoLabel": "60 min",
+      "tipo": "salado",
+      "dificultad": "Media",
+      "comensales": 14,
+      "descripcion": "Solomillo de cerdo envuelto en hojaldre con cebolla morada caramelizada y setas salteadas, un plato espectacular para celebraciones.",
+      "ingredientes": [
+        {"nombre": "Cebollas moradas", "cantidad": "4 kg"},
+        {"nombre": "Setas", "cantidad": "1/2 kg"},
+        {"nombre": "Solomillos de cerdo", "cantidad": "7 unidades"},
+        {"nombre": "Ajos", "cantidad": "2 cabezas"},
+        {"nombre": "Vino fino", "cantidad": "1/2 litro"},
+        {"nombre": "Hojaldre", "cantidad": "1 por racion"},
+        {"nombre": "Huevo crudo", "cantidad": "1 unidad"},
+        {"nombre": "Maicena", "cantidad": "1 vaso"},
+        {"nombre": "Oregano", "cantidad": "al gusto"},
+        {"nombre": "Hierbas provenzales", "cantidad": "al gusto"},
+        {"nombre": "Aceite de oliva", "cantidad": "c.n."},
+        {"nombre": "Sal y pimienta", "cantidad": "al gusto"}
+      ],
+      "pasos": [
+        "Cortar las cebollas en juliana y las setas.",
+        "Limpiar los solomillos de grasa. Se le quita el cordoncillo.",
+        "Calentar la sarten con aceite, echar los ajos limpios y troceados.",
+        "Cuando esten dorados se le echan las setas y la cebolla.",
+        "El solomillo se sala y se pimienta y se deja preparado.",
+        "Sofreir las cebollas y las setas hasta que se pochen.",
+        "Calentar la sarten con un poco de aceite para sellar el solomillo.",
+        "Cuando el solomillo este dorado se le echa el vino; cuando el vino haya reducido un poco (unos 10 a 15 min.), se sacan los solomillos y el caldo que queda se le echa a la sarten de las cebollas, y se le echa el vaso de maicena para espesar un poco.",
+        "Precalentar el horno a 170°. Estirar el hojaldre con el rodillo de madera y cortar las porciones. El hojaldre se pone en bandeja de horno, se bate un huevo y se pinta el hojaldre con el huevo. Se pone en el horno y se retira dorado (10 min mas o menos). Cuando este frio se cortan por la mitad.",
+        "Se ponen los solomillos al horno 170° sobre 20 min.",
+        "Se reparte la cebolla con las setas en el hojaldre. Los solomillos se cortan en medallones, se ponen en el hojaldre con pinones y se tapan con la parte de arriba del hojaldre."
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "postre-brevas",
+      "titulo": "Postre de Brevas",
+      "imagen": "assets/img/receta2.jpg",
+      "imagenThumb": "assets/img/receta2.jpg",
+      "html": "recetas/receta2.html",
+      "pdf": "assets/pdf/receta2.pdf",
+      "tiempo": 30,
+      "tiempoLabel": "30 min",
+      "tipo": "dulce",
+      "dificultad": "Facil",
+      "comensales": 14,
+      "descripcion": "Brevas confitadas en mantequilla con chocolate, nata y frutos secos, servidas sobre torta de aceite. Un postre elegante y reconfortante.",
+      "ingredientes": [
+        {"nombre": "Mantequilla", "cantidad": "250 gr"},
+        {"nombre": "Brevas", "cantidad": "40 unidades"},
+        {"nombre": "Azucar", "cantidad": "500 gr"},
+        {"nombre": "Canela en rama", "cantidad": "2 unidades"},
+        {"nombre": "Naranjas", "cantidad": "2 unidades"},
+        {"nombre": "Limones", "cantidad": "2 unidades"},
+        {"nombre": "Nueces", "cantidad": "120 gr"},
+        {"nombre": "Arandanos", "cantidad": "150 gr"},
+        {"nombre": "Anis", "cantidad": "1/2 vaso"},
+        {"nombre": "Chocolate negro", "cantidad": "500 gr"},
+        {"nombre": "Nata liquida", "cantidad": "1/2 litro"},
+        {"nombre": "Torta Ines Rosales", "cantidad": "1 por persona"}
+      ],
+      "pasos": [
+        "En una sarten se disuelve la mantequilla, se sofrien las brevas sin mover mucho para no estropearlas. Se echa el azucar y la canela.",
+        "Se raspan las naranjas y los limones, se echan a la sarten junto con las nueces y arandanos. Se exprimen las naranjas y limones y se le echa el zumo. Acto seguido se le echa el chocolate y cuando el chocolate se derrita se le echa el 1/2 litro de nata.",
+        "Cocinar a fuego medio durante 25-30 minutos.",
+        "Cuando las brevas esten frias se colocan en el plato con pinones, nueces y arandanos por encima al gusto. Se acompana con la torta en seco, o usada como fondo."
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "torta-santiago",
+      "titulo": "Torta de Santiago",
+      "imagen": "assets/img/receta3.jpg",
+      "imagenThumb": "assets/img/receta3.jpg",
+      "html": "recetas/receta3.html",
+      "pdf": "assets/pdf/receta3.pdf",
+      "tiempo": 50,
+      "tiempoLabel": "50 min",
+      "tipo": "dulce",
+      "dificultad": "Media",
+      "comensales": 12,
+      "descripcion": "Bizcocho tradicional gallego de almendra con aroma a citricos y licor de almendra, espolvoreado con azucar glass y canela.",
+      "ingredientes": [
+        {"nombre": "Harina", "cantidad": "800 gr"},
+        {"nombre": "Azucar", "cantidad": "600 gr"},
+        {"nombre": "Huevos", "cantidad": "16 unidades"},
+        {"nombre": "Mantequilla", "cantidad": "250 g"},
+        {"nombre": "Licor de almendra", "cantidad": "1 copa"},
+        {"nombre": "Levadura Royal", "cantidad": "2 sobres"},
+        {"nombre": "Ralladura de naranja", "cantidad": "2 naranjas"},
+        {"nombre": "Ralladura de limon", "cantidad": "2 limones"},
+        {"nombre": "Harina de almendra", "cantidad": "400 gr"},
+        {"nombre": "Azucar glass", "cantidad": "para decorar"},
+        {"nombre": "Canela en polvo", "cantidad": "para decorar"}
+      ],
+      "pasos": [
+        "En un bol se echa la mantequilla con el licor de almendra, las raspaduras y la harina de almendra.",
+        "Para montar las claras se le echa zumo de 1/2 limon, un poco de sal y se baten las claras al punto de nieve por un lado y aparte se baten las yemas. Se precalienta el horno a 170°.",
+        "Se preparan los 4 moldes de horno, se pintan con aceite y se espolvorean con harina.",
+        "Se le echan 2 cucharadas de azucar a las claras.",
+        "A la masa se le echan las yemas batidas; cuando se amase se le echa el azucar y las claras al punto de nieve.",
+        "Se reparten en los 4 recipientes de horno y se meten en el horno 20 min. (aprox.) a 170°.",
+        "Por ultimo, se desmoldan las tortas y se les echa por encima el azucar glass y la canela."
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "galletas-avena-coco",
+      "titulo": "Galletas de Avena y Coco",
+      "imagen": "assets/img/receta4.jpg",
+      "imagenThumb": "assets/img/receta4.jpg",
+      "html": "recetas/receta4.html",
+      "pdf": "assets/pdf/receta4.pdf",
+      "tiempo": 25,
+      "tiempoLabel": "25 min",
+      "tipo": "dulce",
+      "dificultad": "Facil",
+      "comensales": 10,
+      "descripcion": "Galletas crujientes de avena y coco con un toque de canela, perfectas para acompanar el cafe o el te.",
+      "ingredientes": [
+        {"nombre": "Avena en hojuelas", "cantidad": "300 gr"},
+        {"nombre": "Coco rallado", "cantidad": "150 gr"},
+        {"nombre": "Azucar moreno", "cantidad": "200 gr"},
+        {"nombre": "Mantequilla", "cantidad": "200 gr"},
+        {"nombre": "Huevos", "cantidad": "2 unidades"},
+        {"nombre": "Harina", "cantidad": "150 gr"},
+        {"nombre": "Canela en polvo", "cantidad": "1 cucharadita"},
+        {"nombre": "Levadura quimica", "cantidad": "1 sobre"},
+        {"nombre": "Esencia de vainilla", "cantidad": "1 cucharadita"}
+      ],
+      "pasos": [
+        "Precalentar el horno a 180°. Forrar una bandeja de horno con papel sulfurizado.",
+        "En un bol, mezclar la avena, el coco rallado, el azucar moreno, la harina, la canela y la levadura.",
+        "Anadir la mantequilla a temperatura ambiente en trozos, los huevos batidos y la esencia de vainilla. Mezclar bien hasta formar una masa homogenea.",
+        "Formar bolitas del tamano de una nuez con las manos y aplastarlas ligeramente sobre la bandeja, dejando espacio entre ellas.",
+        "Hornear a 180° durante 12-15 minutos, hasta que los bordes esten dorados.",
+        "Dejar enfriar en la bandeja 5 minutos antes de trasladarlas a una rejilla. Servir una vez esten completamente frias."
+      ]
+    }
+  ]
+}
