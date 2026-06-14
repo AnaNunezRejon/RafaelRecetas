@@ -113,6 +113,47 @@
         "Se reparten en los 4 recipientes de horno y se meten en el horno 20 min. (aprox.) a 170°.",
         "Por ultimo, se desmoldan las tortas y se les echa por encima el azucar glass y la canela."
       ]
+    },
+    {
+      "id": 4,
+      "slug": "bacalao-almendra-jamon-pisto",
+      "titulo": "Bacalao a la Almendra Crujiente de Jamon con Mini Pisto",
+      "imagen": "assets/img/receta4.jpg",
+      "imagenThumb": "assets/img/receta4.jpg",
+      "html": "recetas/receta4.html",
+      "pdf": "assets/pdf/receta4.pdf",
+      "tiempo": 60,
+      "tiempoLabel": "60 min",
+      "tipo": "salado",
+      "dificultad": "Media",
+      "comensales": 12,
+      "descripcion": "Bacalao rebozado en almendra crujiente con virutas de jamon y mini pisto de verduras. Un plato elegante y lleno de sabor.",
+      "ingredientes": [
+        {"nombre": "Lomos de bacalao", "cantidad": "12 porciones"},
+        {"nombre": "Jamon en virutas", "cantidad": "300 gr"},
+        {"nombre": "Almendras picadas", "cantidad": "400 gr"},
+        {"nombre": "Harina (para tempura)", "cantidad": "1/2 kg"},
+        {"nombre": "Sal (para tempura)", "cantidad": "1 pizca"},
+        {"nombre": "Cerveza (para tempura)", "cantidad": "3 vasos"},
+        {"nombre": "Tomates", "cantidad": "2 kg"},
+        {"nombre": "Calabaza", "cantidad": "1 kg"},
+        {"nombre": "Calabacin", "cantidad": "1 1/2 unidades"},
+        {"nombre": "Cabeza de ajos", "cantidad": "1 unidad"},
+        {"nombre": "Pimientos rojos grandes", "cantidad": "4 unidades"},
+        {"nombre": "Pimientos verdes", "cantidad": "7 unidades"},
+        {"nombre": "Cebolla", "cantidad": "1 kg"},
+        {"nombre": "Aceite de oliva", "cantidad": "1/2 litro"},
+        {"nombre": "Hierbas provenzales", "cantidad": "al gusto"},
+        {"nombre": "Azucar", "cantidad": "1 cucharada"},
+        {"nombre": "Sal", "cantidad": "1 cucharada"}
+      ],
+      "pasos": [
+        "Tempura: Bate con la batidora la harina, la pizca de sal y la cerveza hasta que emulsione.",
+        "Bacalao: Moja los lomos por la parte sin piel en tempura, reboza con almendra picada. Frié en sartén con la piel hacia arriba y la almendra hacia abajo. Cuando dore, dale la vuelta. Luego 15 min al horno a 180°C.",
+        "Virutas de jamon: Sofríe las virutas de jamon en sartén aparte hasta que estén crujientes.",
+        "Pisto: Pica la verdura igual. Pela los tomates con agua caliente. Sofríe la cebolla con las hierbas provenzales, añade el resto de verduras menos el tomate. El tomate fríelo aparte con el azucar y la sal hasta reducir, luego mézclalo con las verduras.",
+        "Presentación: Coloca una cama de pisto, el bacalao encima y las virutas de jamon por encima."
+      ]
     }
   ]
 }

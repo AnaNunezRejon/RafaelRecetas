@@ -98,6 +98,10 @@ function initRecipeGrid() {
     });
 }
 
+function recipeUrl(slug) {
+  return './recetas.html?r=' + slug;
+}
+
 function renderRecipes(recipes) {
   const grid = document.getElementById('recipe-grid');
   const emptyState = document.getElementById('empty-state');
@@ -114,7 +118,7 @@ function renderRecipes(recipes) {
 
   grid.innerHTML = recipes.map(r =>
     '<article class="recipe-card">' +
-      '<a href="' + r.html + '" class="recipe-card-img-wrapper">' +
+      '<a href="' + recipeUrl(r.slug) + '" class="recipe-card-img-wrapper">' +
         '<img src="' + r.imagenThumb + '" alt="' + r.titulo + '" class="recipe-card-img" loading="lazy">' +
       '</a>' +
       '<div class="recipe-card-body">' +
@@ -125,7 +129,7 @@ function renderRecipes(recipes) {
         '</div>' +
         '<div class="recipe-card-footer">' +
           '<span class="recipe-card-servings">' + icons.users + ' ' + r.comensales + ' pers.</span>' +
-          '<a href="' + r.html + '" class="recipe-card-link">Ver receta ' + icons['arrow-right'] + '</a>' +
+          '<a href="' + recipeUrl(r.slug) + '" class="recipe-card-link">Ver receta ' + icons['arrow-right'] + '</a>' +
         '</div>' +
       '</div>' +
     '</article>'
