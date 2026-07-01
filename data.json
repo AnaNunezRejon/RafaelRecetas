@@ -12,26 +12,62 @@
       "tiempoLabel": "60 min",
       "tipo": "salado",
       "dificultad": "Media",
-      "comensales": 14,
-      "descripcion": "Solomillo de cerdo envuelto en hojaldre con cebolla morada caramelizada y setas salteadas, un plato espectacular para celebraciones.",
+      "comensales": 4,
+      "descripcion": "Solomillo de cerdo envuelto en hojaldre con cebolla morada caramelizada y setas salteadas.",
       "ingredientes": [
-        {"nombre": "Cebollas moradas", "cantidad": "4 kg"},
-        {"nombre": "Setas", "cantidad": "1/2 kg"},
-        {"nombre": "Solomillos de cerdo", "cantidad": "7 unidades"},
-        {"nombre": "Ajos", "cantidad": "2 cabezas"},
-        {"nombre": "Vino fino", "cantidad": "1/2 litro"},
-        {"nombre": "Hojaldre", "cantidad": "1 por racion"},
-        {"nombre": "Huevo crudo", "cantidad": "1 unidad"},
-        {"nombre": "Maicena", "cantidad": "1 vaso"},
-        {"nombre": "Oregano", "cantidad": "al gusto"},
-        {"nombre": "Hierbas provenzales", "cantidad": "al gusto"},
-        {"nombre": "Aceite de oliva", "cantidad": "c.n."},
-        {"nombre": "Sal y pimienta", "cantidad": "al gusto"}
+        {
+          "nombre": "Cebollas moradas",
+          "cantidad": "400 g"
+        },
+        {
+          "nombre": "Setas",
+          "cantidad": "150 g"
+        },
+        {
+          "nombre": "Solomillos de cerdo",
+          "cantidad": "2 unidades"
+        },
+        {
+          "nombre": "Ajos",
+          "cantidad": "4-5 dientes"
+        },
+        {
+          "nombre": "Vino fino",
+          "cantidad": "150 ml"
+        },
+        {
+          "nombre": "Hojaldre",
+          "cantidad": "1 por persona"
+        },
+        {
+          "nombre": "Huevo crudo",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Maicena",
+          "cantidad": "1 vaso"
+        },
+        {
+          "nombre": "Oregano",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Hierbas provenzales",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "cantidad": "c.n."
+        },
+        {
+          "nombre": "Sal y pimienta",
+          "cantidad": "al gusto"
+        }
       ],
       "pasos": [
         "Cortar las cebollas en juliana y las setas.",
-        "Limpiar los solomillos de grasa. Se le quita el cordoncillo.",
-        "Calentar la sarten con aceite, echar los ajos limpios y troceados.",
+        "Limpiar los solomillos de grasa y quitar el cordoncillo.",
+        "Calentar la sarten con aceite, se echan los ajos limpios y troceados.",
         "Cuando esten dorados se le echan las setas y la cebolla.",
         "El solomillo se sala y se pimienta y se deja preparado.",
         "Sofreir las cebollas y las setas hasta que se pochen.",
@@ -54,25 +90,61 @@
       "tiempoLabel": "30 min",
       "tipo": "dulce",
       "dificultad": "Facil",
-      "comensales": 14,
-      "descripcion": "Brevas confitadas en mantequilla con chocolate, nata y frutos secos, servidas sobre torta de aceite. Un postre elegante y reconfortante.",
+      "comensales": 4,
+      "descripcion": "Brevas confitadas en mantequilla con chocolate, nata y frutos secos.",
       "ingredientes": [
-        {"nombre": "Mantequilla", "cantidad": "250 gr"},
-        {"nombre": "Brevas", "cantidad": "40 unidades"},
-        {"nombre": "Azucar", "cantidad": "500 gr"},
-        {"nombre": "Canela en rama", "cantidad": "2 unidades"},
-        {"nombre": "Naranjas", "cantidad": "2 unidades"},
-        {"nombre": "Limones", "cantidad": "2 unidades"},
-        {"nombre": "Nueces", "cantidad": "120 gr"},
-        {"nombre": "Arandanos", "cantidad": "150 gr"},
-        {"nombre": "Anis", "cantidad": "1/2 vaso"},
-        {"nombre": "Chocolate negro", "cantidad": "500 gr"},
-        {"nombre": "Nata liquida", "cantidad": "1/2 litro"},
-        {"nombre": "Torta Ines Rosales", "cantidad": "1 por persona"}
+        {
+          "nombre": "Mantequilla",
+          "cantidad": "70 g"
+        },
+        {
+          "nombre": "Brevas",
+          "cantidad": "12 unidades"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "150 g"
+        },
+        {
+          "nombre": "Canela en rama",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Naranjas",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Limones",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Nueces",
+          "cantidad": "35 g"
+        },
+        {
+          "nombre": "Arandanos",
+          "cantidad": "45 g"
+        },
+        {
+          "nombre": "Anis",
+          "cantidad": "1 chorreon"
+        },
+        {
+          "nombre": "Chocolate negro",
+          "cantidad": "150 g"
+        },
+        {
+          "nombre": "Nata liquida",
+          "cantidad": "150 ml"
+        },
+        {
+          "nombre": "Torta Ines Rosales",
+          "cantidad": "4 unidades"
+        }
       ],
       "pasos": [
         "En una sarten se disuelve la mantequilla, se sofrien las brevas sin mover mucho para no estropearlas. Se echa el azucar y la canela.",
-        "Se raspan las naranjas y los limones, se echan a la sarten junto con las nueces y arandanos. Se exprimen las naranjas y limones y se le echa el zumo. Acto seguido se le echa el chocolate y cuando el chocolate se derrita se le echa el 1/2 litro de nata.",
+        "Se raspan las naranjas y los limones, se echan a la sarten junto con las nueces y arandanos. Se exprimen las naranjas y limones y se le echa el zumo. Acto seguido se le echa el chocolate y cuando el chocolate se derrita se le echa la nata.",
         "Cocinar a fuego medio durante 25-30 minutos.",
         "Cuando las brevas esten frias se colocan en el plato con pinones, nueces y arandanos por encima al gusto. Se acompana con la torta en seco, o usada como fondo."
       ]
@@ -89,70 +161,959 @@
       "tiempoLabel": "50 min",
       "tipo": "dulce",
       "dificultad": "Media",
-      "comensales": 12,
-      "descripcion": "Bizcocho tradicional gallego de almendra con aroma a citricos y licor de almendra, espolvoreado con azucar glass y canela.",
+      "comensales": 4,
+      "descripcion": "Bizcocho tradicional gallego de almendra con aroma a citricos y licor de almendra.",
       "ingredientes": [
-        {"nombre": "Harina", "cantidad": "800 gr"},
-        {"nombre": "Azucar", "cantidad": "600 gr"},
-        {"nombre": "Huevos", "cantidad": "16 unidades"},
-        {"nombre": "Mantequilla", "cantidad": "250 g"},
-        {"nombre": "Licor de almendra", "cantidad": "1 copa"},
-        {"nombre": "Levadura Royal", "cantidad": "2 sobres"},
-        {"nombre": "Ralladura de naranja", "cantidad": "2 naranjas"},
-        {"nombre": "Ralladura de limon", "cantidad": "2 limones"},
-        {"nombre": "Harina de almendra", "cantidad": "400 gr"},
-        {"nombre": "Azucar glass", "cantidad": "para decorar"},
-        {"nombre": "Canela en polvo", "cantidad": "para decorar"}
+        {
+          "nombre": "Harina",
+          "cantidad": "270 g"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "200 g"
+        },
+        {
+          "nombre": "Huevos",
+          "cantidad": "5 unidades"
+        },
+        {
+          "nombre": "Mantequilla",
+          "cantidad": "85 g"
+        },
+        {
+          "nombre": "Licor de almendra",
+          "cantidad": "1/3 copa"
+        },
+        {
+          "nombre": "Levadura Royal",
+          "cantidad": "1 sobre"
+        },
+        {
+          "nombre": "Ralladura de naranja",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Ralladura de limon",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Harina de almendra",
+          "cantidad": "135 g"
+        },
+        {
+          "nombre": "Azucar glass",
+          "cantidad": "para decorar"
+        },
+        {
+          "nombre": "Canela en polvo",
+          "cantidad": "para decorar"
+        }
       ],
       "pasos": [
         "En un bol se echa la mantequilla con el licor de almendra, las raspaduras y la harina de almendra.",
         "Para montar las claras se le echa zumo de 1/2 limon, un poco de sal y se baten las claras al punto de nieve por un lado y aparte se baten las yemas. Se precalienta el horno a 170°.",
-        "Se preparan los 4 moldes de horno, se pintan con aceite y se espolvorean con harina.",
+        "Se prepara el molde de horno, se pintan con aceite y se espolvorean con harina.",
         "Se le echan 2 cucharadas de azucar a las claras.",
         "A la masa se le echan las yemas batidas; cuando se amase se le echa el azucar y las claras al punto de nieve.",
-        "Se reparten en los 4 recipientes de horno y se meten en el horno 20 min. (aprox.) a 170°.",
+        "Se vierte en el molde y se mete en el horno 20 min. (aprox.) a 170°.",
         "Por ultimo, se desmoldan las tortas y se les echa por encima el azucar glass y la canela."
       ]
     },
     {
-      "id": 4,
-      "slug": "bacalao-almendra-jamon-pisto",
-      "titulo": "Bacalao a la Almendra Crujiente de Jamon con Mini Pisto",
+      "id": 99,
+      "slug": "crema-pastelera",
+      "titulo": "Crema Pastelera",
       "imagen": "assets/img/receta4.jpg",
       "imagenThumb": "assets/img/receta4.jpg",
-      "html": "recetas/receta4.html",
-      "pdf": "assets/pdf/receta4.pdf",
+      "html": "recetas/crema-pastelera.html",
+      "pdf": "assets/pdf/crema-pastelera.pdf",
+      "tiempo": 20,
+      "tiempoLabel": "20 min",
+      "tipo": "dulce",
+      "dificultad": "Facil",
+      "comensales": 4,
+      "descripcion": "Crema pastelera basica para rellenar tejas, mil hojas, piononos y otros postres.",
+      "ingredientes": [
+        {
+          "nombre": "Leche",
+          "cantidad": "500 ml"
+        },
+        {
+          "nombre": "Yemas de huevo",
+          "cantidad": "3 unidades"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "100 g"
+        },
+        {
+          "nombre": "Maicena",
+          "cantidad": "30 g"
+        },
+        {
+          "nombre": "Mantequilla",
+          "cantidad": "55 g"
+        },
+        {
+          "nombre": "Rama de canela",
+          "cantidad": "1/2 unidad"
+        }
+      ],
+      "pasos": [
+        "En un bol se echan las yemas y se baten. Se le echa la maicena, se remueve y se le anade el azucar. Se deja un poco de azucar para echar a la leche.",
+        "En una olla se echa la leche, la mantequilla, la rama de canela y el azucar restante. Se calienta a fuego medio.",
+        "Cuando la leche empiece a hervir, se retira la canela y se le echan las yemas poco a poco removiendo constantemente con unas varillas para que no se formen grumos.",
+        "Se sigue removiendo hasta que la crema espese. Se retira del fuego y se deja enfriar. Se puede cubrir con film transparente pegado a la superficie para que no forme costra."
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "carrilleras",
+      "titulo": "Carrilleras",
+      "imagen": "assets/img/receta5.jpg",
+      "imagenThumb": "assets/img/receta5.jpg",
+      "html": "recetas/receta5.html",
+      "pdf": "assets/pdf/receta5.pdf",
+      "tiempo": 120,
+      "tiempoLabel": "120 min",
+      "tipo": "salado",
+      "dificultad": "Media",
+      "comensales": 4,
+      "descripcion": "Carrilleras de ternera estofadas con verduras y vino de Jerez, servidas sobre pure de patatas.",
+      "ingredientes": [
+        {
+          "nombre": "Carrilleras",
+          "cantidad": "4 unidades"
+        },
+        {
+          "nombre": "Cebolla",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Pimientos (rojos, verdes, amarillos)",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Hojas de laurel",
+          "cantidad": "2 unidades"
+        },
+        {
+          "nombre": "Hierbas aromaticas",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Cabeza de ajos",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Tomates",
+          "cantidad": "400 g"
+        },
+        {
+          "nombre": "Vino (Jerez)",
+          "cantidad": "200 ml"
+        },
+        {
+          "nombre": "Caldo de pollo",
+          "cantidad": "300 ml"
+        },
+        {
+          "nombre": "Sal y pimienta",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "cantidad": "c.n."
+        }
+      ],
+      "pasos": [
+        "Se limpian las carrilleras de la piel, se salan y se pimientan junto con las hierbas provenzales.",
+        "Se pican las verduras en trozos iguales, y el tomate aparte.",
+        "En una olla se echa un poco de aceite, se frien los ajos y se echan las verduras. Cuando esten pochadas se le echa el tomate y la sal.",
+        "En otra sarten se sellan las carrilleras. Cuando esten doradas se echan en la olla de la verdura y se remueven con la verdura.",
+        "Cuando se seca el caldo se le echa el vino y el caldo de pollo. Tiempo de coccion: 1h 30 min.",
+        "Se sacan las carrilleras y las verduras se baten con batidora y se pasan por el chino.",
+        "Presentacion: en un plato se pone el pure y las carrilleras encima."
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "bouleban-gambas",
+      "titulo": "Bouleban de Hojaldre Relleno de Gambas",
+      "imagen": "assets/img/receta6.jpg",
+      "imagenThumb": "assets/img/receta6.jpg",
+      "html": "recetas/receta6.html",
+      "pdf": "assets/pdf/receta6.pdf",
+      "tiempo": 45,
+      "tiempoLabel": "45 min",
+      "tipo": "salado",
+      "dificultad": "Media",
+      "comensales": 4,
+      "descripcion": "Volovanes de hojaldre rellenos de gambas en bechamel de fumet.",
+      "ingredientes": [
+        {
+          "nombre": "Masa de hojaldre",
+          "cantidad": "400 g"
+        },
+        {
+          "nombre": "Huevo (para pintar)",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Gambas",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Cebolla",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Harina",
+          "cantidad": "2 cucharadas"
+        },
+        {
+          "nombre": "Nuez moscada",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": "300 ml"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "cantidad": "c.n."
+        },
+        {
+          "nombre": "Sal",
+          "cantidad": "al gusto"
+        }
+      ],
+      "pasos": [
+        "Se corta el hojaldre con molde, 2 para cada bouleban: uno entero y el otro se le quita el centro para que quede como una corona y se coloca encima de la entera.",
+        "Se pintan con el huevo batido, se pelan las gambas y las cabezas se cuecen a parte para hacer el fumet.",
+        "La cebolla se pica muy pequenita.",
+        "Para la bechamel: en una olla con aceite se sofrie la cebolla, se echa la harina. Cuando la harina se cocine un poco se le echa el fumet de gambas. Despues se va anadiendo leche y se va moviendo. Se rectifica de sal.",
+        "El hojaldre se pone al horno precalentado a 180° hasta que el hojaldre suba y este dorado.",
+        "En otra olla se cuecen las gambas peladas 2 o 3 minutos.",
+        "Se echan a la bechamel, se rellenan los hojaldres y se le pone la tapa de hojaldre encima."
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "fabada",
+      "titulo": "Fabada",
+      "imagen": "assets/img/receta7.jpg",
+      "imagenThumb": "assets/img/receta7.jpg",
+      "html": "recetas/receta7.html",
+      "pdf": "assets/pdf/receta7.pdf",
+      "tiempo": 180,
+      "tiempoLabel": "180 min",
+      "tipo": "salado",
+      "dificultad": "Media",
+      "comensales": 4,
+      "descripcion": "Fabada asturiana con fabes, compango y verduras, cocinada a fuego lento.",
+      "ingredientes": [
+        {
+          "nombre": "Fabes",
+          "cantidad": "400 g"
+        },
+        {
+          "nombre": "Compango (2 chorizos, 1 morcilla, 2 tocinos)",
+          "cantidad": "1 racion"
+        },
+        {
+          "nombre": "Cebollas grandes",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Patatas medianas",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Hojas de laurel",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Pimientos cuernicabra",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Azafran",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "cantidad": "c.n."
+        },
+        {
+          "nombre": "Sal",
+          "cantidad": "al gusto"
+        }
+      ],
+      "pasos": [
+        "Las fabes se tienen de 24 a 48 horas en remojo.",
+        "Se prepara una olla con agua y se echan las fabes.",
+        "Las cebollas y las patatas peladas y enteras, el laurel y los compangos se van cociendo, y se va echando si hace falta un poco de agua fria, de vez en cuando. No se le echa sal solo al final y si hay que rectificar ya que el compango lleva sal.",
+        "Se pone a fuego medio, cuando las patatas y la cebolla esten tiernas se sacan, se baten y se le vuelven a echar. El compango se saca y se corta en porciones."
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "careta-cerdo",
+      "titulo": "Careta de Cerdo",
+      "imagen": "assets/img/receta8.jpg",
+      "imagenThumb": "assets/img/receta8.jpg",
+      "html": "recetas/receta8.html",
+      "pdf": "assets/pdf/receta8.pdf",
+      "tiempo": 180,
+      "tiempoLabel": "180 min",
+      "tipo": "salado",
+      "dificultad": "Dificil",
+      "comensales": 4,
+      "descripcion": "Careta de cerdo cocida, picada y enrollada, servida con vinagreta y tomates cherry.",
+      "ingredientes": [
+        {
+          "nombre": "Careta de cerdo",
+          "cantidad": "1 unidad (para 4 pers.)"
+        },
+        {
+          "nombre": "Cabezas de ajos enteras",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Hinojo",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Pimienta en grano",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Laurel",
+          "cantidad": "2-3 hojas"
+        },
+        {
+          "nombre": "Sal",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Tomillo",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Cebolla entera",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Pimenton dulce",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Pimenton",
+          "cantidad": "para espolvorear"
+        },
+        {
+          "nombre": "Pimienta molida",
+          "cantidad": "para espolvorear"
+        },
+        {
+          "nombre": "Aceite",
+          "cantidad": "para vinagreta"
+        },
+        {
+          "nombre": "Vinagre",
+          "cantidad": "para vinagreta"
+        },
+        {
+          "nombre": "Perejil",
+          "cantidad": "para vinagreta"
+        },
+        {
+          "nombre": "Mostaza (opcional)",
+          "cantidad": "para vinagreta"
+        },
+        {
+          "nombre": "Tomates cherry",
+          "cantidad": "para acompanar"
+        }
+      ],
+      "pasos": [
+        "Para cocerlas: en una olla se cuecen las caretas durante 2 horas con las cabezas de ajos, hinojo, pimienta en grano, laurel, sal, tomillo, cebolla y pimenton dulce.",
+        "Cuando esten tiernas se pican muy picadas. Se le echa pimienta molida, sal y pimenton.",
+        "Se reparten las caretas en porciones y se enrollan en plastico film. Como choricillos, se atan las puntas del film, se ponen en una bandeja y se ponen en el frigo. Cuando se vayan a consumir, se sacan y se cortan en rodajas finas.",
+        "Para la vinagreta: en un bol se echa aceite, vinagre, se pica perejil, y opcionalmente se puede echar un poco de mostaza.",
+        "Presentacion: se colocan las rodajas en un plato, se le espolvorea un poco de pimenton y se acompana con tomates cherry. Se le echa la vinagreta por encima."
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "mil-hojas-manzana",
+      "titulo": "Mil Hojas de Manzana",
+      "imagen": "assets/img/receta10.jpg",
+      "imagenThumb": "assets/img/receta10.jpg",
+      "html": "recetas/receta10.html",
+      "pdf": "assets/pdf/receta10.pdf",
+      "tiempo": 60,
+      "tiempoLabel": "60 min",
+      "tipo": "dulce",
+      "dificultad": "Media",
+      "comensales": 4,
+      "descripcion": "Mil hojas de manzana con crema pastelera y hojaldre crujiente.",
+      "ingredientes": [
+        {
+          "nombre": "Limones",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Naranja",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Hojaldre",
+          "cantidad": "2 laminas"
+        },
+        {
+          "nombre": "Manzanas",
+          "cantidad": "3-4 unidades"
+        },
+        {
+          "nombre": "Huevos",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Mantequilla",
+          "cantidad": "40 g"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Rama de canela",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Anis",
+          "cantidad": "2 cucharadas"
+        },
+        {
+          "nombre": "Maicena",
+          "cantidad": "20 g"
+        },
+        {
+          "nombre": "Azucar glass",
+          "cantidad": "para decorar"
+        }
+      ],
+      "pasos": [
+        "Se limpian las manzanas de piel y corazon, se cortan en cuadradillos.",
+        "Se precalienta el horno a 180°. Los hojaldres se les da con el rodillo de madera un poco y se cortan en cuadrados de 12cm x 12cm mas o menos. En una bandeja de horno se espolvorea harina, se colocan los hojaldres, se baten los huevos y se pintan los hojaldres con una brocha de silicona. Se ponen al horno 15-20 min.",
+        "Se prepara una olla, al fuego se le echa la mantequilla. Cuando se derrita se echan las manzanas a media coccion se echa el anis. Se escurren las manzanas, se ponen en un bol, se le echa la crema pastelera y se remueve.",
+        "Se coge el hojaldre, se corta por la mitad, se pone la mezcla en medio y se tapan. Se espolvorea con azucar glass."
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "tocino-cielo",
+      "titulo": "Tocino de Cielo",
+      "imagen": "assets/img/receta11.jpg",
+      "imagenThumb": "assets/img/receta11.jpg",
+      "html": "recetas/receta11.html",
+      "pdf": "assets/pdf/receta11.pdf",
+      "tiempo": 60,
+      "tiempoLabel": "60 min",
+      "tipo": "dulce",
+      "dificultad": "Media",
+      "comensales": 4,
+      "descripcion": "Tocino de cielo tradicional, un dulce de yema y azucar con caramelo.",
+      "ingredientes": [
+        {
+          "nombre": "Azucar",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Agua",
+          "cantidad": "200 ml"
+        },
+        {
+          "nombre": "Yemas de huevo",
+          "cantidad": "8 unidades"
+        },
+        {
+          "nombre": "Huevos enteros",
+          "cantidad": "1 unidad"
+        }
+      ],
+      "pasos": [
+        "Para el caramelo: en una sarten se echa el azucar con un poco de agua hasta que este el caramelo de un color tostado.",
+        "En otra olla se echa el azucar y el agua. Se calienta hasta que el azucar se disuelva.",
+        "En otro bol se echan las yemas y el huevo. Se baten con la varilla de montar. Cuando esten batidas se pasan por el chino y se echan en una olla. Cuando el agua y el azucar esten caliente se le echan a las yemas.",
+        "En una bandeja de cristal de horno se le echa el caramelo de fondo. A continuacion se le echa encima la mezcla. Se pone la bandeja dentro de otra bandeja mayor en bano maria con agua fria. Se tapa el tocino de cielo con papel de aluminio.",
+        "Se mete al horno precalentado a 180° de 35 a 40 min. Se pone unas 24 horas en el frigo. Al dia siguiente se vuelve a poner al bano maria para calentar el caramelo y se desmolda bien, se le da la vuelta y se corta en porciones."
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "tejas",
+      "titulo": "Tejas",
+      "imagen": "assets/img/receta12.jpg",
+      "imagenThumb": "assets/img/receta12.jpg",
+      "html": "recetas/receta12.html",
+      "pdf": "assets/pdf/receta12.pdf",
+      "tiempo": 40,
+      "tiempoLabel": "40 min",
+      "tipo": "dulce",
+      "dificultad": "Facil",
+      "comensales": 4,
+      "descripcion": "Tejas de almendra crujientes, un dulce tradicional con merengue.",
+      "ingredientes": [
+        {
+          "nombre": "Grano de almendra",
+          "cantidad": "230 g"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "170 g"
+        },
+        {
+          "nombre": "Mantequilla",
+          "cantidad": "115 g"
+        },
+        {
+          "nombre": "Harina",
+          "cantidad": "60 g"
+        },
+        {
+          "nombre": "Nata liquida",
+          "cantidad": "30 g"
+        },
+        {
+          "nombre": "Naranjas (ralladura)",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Limones (ralladura)",
+          "cantidad": "1 unidad"
+        }
+      ],
+      "pasos": [
+        "En un bol se echan las almendras en grano, se echa la mantequilla, el azucar, la nata liquida, la harina tamizada y las raspaduras de los citricos. Se amasan y se colocan en una bandeja de horno en porciones tamano galleta pequena.",
+        "Se ponen separadas para que no lleguen a juntarse. Cuando se empiezan a dorar se sacan y se colocan en otra bandeja solapadas para enfriarlas.",
+        "Presentacion: en un plato se pone una teja, el merengue por encima y se espolvorea recortes de teja."
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "gachas",
+      "titulo": "Gachas",
+      "imagen": "assets/img/receta13.jpg",
+      "imagenThumb": "assets/img/receta13.jpg",
+      "html": "recetas/receta13.html",
+      "pdf": "assets/pdf/receta13.pdf",
+      "tiempo": 30,
+      "tiempoLabel": "30 min",
+      "tipo": "dulce",
+      "dificultad": "Facil",
+      "comensales": 4,
+      "descripcion": "Gachas tradicionales de harina de pan, aromatizadas con anis y canela.",
+      "ingredientes": [
+        {
+          "nombre": "Leche",
+          "cantidad": "500 ml"
+        },
+        {
+          "nombre": "Naranja (peladura)",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Limon (peladura)",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "60 g"
+        },
+        {
+          "nombre": "Maicena",
+          "cantidad": "15 g"
+        },
+        {
+          "nombre": "Vaso de agua",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Barra de pan",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Hiel de cana (o miel)",
+          "cantidad": "para decorar"
+        },
+        {
+          "nombre": "Canela en polvo",
+          "cantidad": "para decorar"
+        },
+        {
+          "nombre": "Anis en grano",
+          "cantidad": "1 cucharada"
+        },
+        {
+          "nombre": "Canela en rama",
+          "cantidad": "1/2 unidad"
+        }
+      ],
+      "pasos": [
+        "En una olla se echa la leche, las peladuras y la canela. A la maicena se le echa un poco de agua y se echa a la olla.",
+        "El pan se corta en cuadrados para hacer los picatostes y se frien.",
+        "Cuando las gachas esten listas, en una sarten con un poco de aceite se frie un poco el anis en grano y cuando este frito sin quemarse se lo echamos a las gachas con el aceite.",
+        "Presentacion: en un plato se echa la racion de gachas, se le echan picatostes y hiel de cana por encima y se espolvorea un poco de canela."
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "marmitaco",
+      "titulo": "Marmitaco",
+      "imagen": "assets/img/receta14.jpg",
+      "imagenThumb": "assets/img/receta14.jpg",
+      "html": "recetas/receta14.html",
+      "pdf": "assets/pdf/receta14.pdf",
       "tiempo": 60,
       "tiempoLabel": "60 min",
       "tipo": "salado",
       "dificultad": "Media",
-      "comensales": 12,
-      "descripcion": "Bacalao rebozado en almendra crujiente con virutas de jamon y mini pisto de verduras. Un plato elegante y lleno de sabor.",
+      "comensales": 4,
+      "descripcion": "Marmitaco de atun fresco con patatas, pimientos y tomate, un guiso vasco tradicional.",
       "ingredientes": [
-        {"nombre": "Lomos de bacalao", "cantidad": "12 porciones"},
-        {"nombre": "Jamon en virutas", "cantidad": "300 gr"},
-        {"nombre": "Almendras picadas", "cantidad": "400 gr"},
-        {"nombre": "Harina (para tempura)", "cantidad": "1/2 kg"},
-        {"nombre": "Sal (para tempura)", "cantidad": "1 pizca"},
-        {"nombre": "Cerveza (para tempura)", "cantidad": "3 vasos"},
-        {"nombre": "Tomates", "cantidad": "2 kg"},
-        {"nombre": "Calabaza", "cantidad": "1 kg"},
-        {"nombre": "Calabacin", "cantidad": "1 1/2 unidades"},
-        {"nombre": "Cabeza de ajos", "cantidad": "1 unidad"},
-        {"nombre": "Pimientos rojos grandes", "cantidad": "4 unidades"},
-        {"nombre": "Pimientos verdes", "cantidad": "7 unidades"},
-        {"nombre": "Cebolla", "cantidad": "1 kg"},
-        {"nombre": "Aceite de oliva", "cantidad": "1/2 litro"},
-        {"nombre": "Hierbas provenzales", "cantidad": "al gusto"},
-        {"nombre": "Azucar", "cantidad": "1 cucharada"},
-        {"nombre": "Sal", "cantidad": "1 cucharada"}
+        {
+          "nombre": "Pimientos (amarillos, rojos y verdes)",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Cebollas",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Pimientos secos cuernicabra",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Tomates",
+          "cantidad": "600 g"
+        },
+        {
+          "nombre": "Atun fresco",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Vino blanco",
+          "cantidad": "150 ml"
+        },
+        {
+          "nombre": "Patatas",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Cabezas de ajos",
+          "cantidad": "2/3 unidad"
+        },
+        {
+          "nombre": "Aceite",
+          "cantidad": "c.n."
+        },
+        {
+          "nombre": "Laurel",
+          "cantidad": "1-2 hojas"
+        },
+        {
+          "nombre": "Pimienta",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Sal",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Maicena",
+          "cantidad": "1 cucharada"
+        },
+        {
+          "nombre": "Caldo de verduras",
+          "cantidad": "300 ml"
+        }
       ],
       "pasos": [
-        "Tempura: Bate con la batidora la harina, la pizca de sal y la cerveza hasta que emulsione.",
-        "Bacalao: Moja los lomos por la parte sin piel en tempura, reboza con almendra picada. Frié en sartén con la piel hacia arriba y la almendra hacia abajo. Cuando dore, dale la vuelta. Luego 15 min al horno a 180°C.",
-        "Virutas de jamon: Sofríe las virutas de jamon en sartén aparte hasta que estén crujientes.",
-        "Pisto: Pica la verdura igual. Pela los tomates con agua caliente. Sofríe la cebolla con las hierbas provenzales, añade el resto de verduras menos el tomate. El tomate fríelo aparte con el azucar y la sal hasta reducir, luego mézclalo con las verduras.",
-        "Presentación: Coloca una cama de pisto, el bacalao encima y las virutas de jamon por encima."
+        "Se limpian las verduras y se cortan en trozos iguales. Las patatas se cascuean en trozos grandes.",
+        "Los tomates se escalfan, se pelan y se trituran aparte. La cebolla y los ajos se pican aparte.",
+        "En una sarten se echa aceite, se frien los ajos limpios y troceados, seguidamente la cebolla. Cuando este pochada, los pimientos y por ultimo el tomate triturado.",
+        "Cuando este el tomate frito se le echa 1 vaso de vino y los pimientos choricieros. Cuando se pierda el alcohol del vino se echan las patatas, se sofrien un poco y se le echa el caldo. Se rectifica de sal y pimienta.",
+        "El atun se corta en trozos, y se echa al sofrito. El atun de 10 a 15 minutos. Se echa maicena por si hay que espesar un poco el caldo."
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "salmon",
+      "titulo": "Salmon al Horno",
+      "imagen": "assets/img/receta15.jpg",
+      "imagenThumb": "assets/img/receta15.jpg",
+      "html": "recetas/receta15.html",
+      "pdf": "assets/pdf/receta15.pdf",
+      "tiempo": 30,
+      "tiempoLabel": "30 min",
+      "tipo": "salado",
+      "dificultad": "Facil",
+      "comensales": 4,
+      "descripcion": "Salmon al horno con salsa de fumet de pescado y nata.",
+      "ingredientes": [
+        {
+          "nombre": "Lomos de salmon",
+          "cantidad": "4 unidades"
+        },
+        {
+          "nombre": "Fumet de pescado",
+          "cantidad": "300 ml"
+        },
+        {
+          "nombre": "Nata liquida",
+          "cantidad": "100 ml"
+        },
+        {
+          "nombre": "Maicena instantanea",
+          "cantidad": "20 g"
+        },
+        {
+          "nombre": "Sal y pimienta",
+          "cantidad": "al gusto"
+        }
+      ],
+      "pasos": [
+        "En una bandeja de horno se ponen las piezas de salmon, se le echa un poco de sal y con el horno precalentado a 180°, se coloca la bandeja unos 15 min.",
+        "En una olla se pone el fumet de pescado, la nata, la maicena y una poca sal y pimienta, hasta que se espese.",
+        "Presentacion: se pone el salmon en un plato y se echa el fumet reducido por encima."
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "lentejas-caviar",
+      "titulo": "Lentejas Caviar",
+      "imagen": "assets/img/receta9.jpg",
+      "imagenThumb": "assets/img/receta9.jpg",
+      "html": "recetas/receta9.html",
+      "pdf": "assets/pdf/receta9.pdf",
+      "tiempo": 50,
+      "tiempoLabel": "50 min",
+      "tipo": "salado",
+      "dificultad": "Facil",
+      "comensales": 4,
+      "descripcion": "Lentejas negras (caviar) con verduras salteadas y tomate.",
+      "ingredientes": [
+        {
+          "nombre": "Pimiento verde",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Pimiento rojo",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Pimiento amarillo",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Cebollas",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Cabeza de ajos",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Hojas de laurel",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Pimiento seco",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Tomates maduros",
+          "cantidad": "2 unidades"
+        },
+        {
+          "nombre": "Pimienta",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Nuez moscada",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Lentejas caviar (o pardinas)",
+          "cantidad": "300 g"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "cantidad": "c.n."
+        },
+        {
+          "nombre": "Sal",
+          "cantidad": "al gusto"
+        }
+      ],
+      "pasos": [
+        "En una olla con agua se echan las hojas de laurel, la cabeza de ajos y el pimiento seco. Cuando los ajos esten medio cocidos se echan las lentejas, unos 35 min. Se comprueba la textura de las lentejas. La cabeza de ajos, el laurel y el pimiento seco se retiran.",
+        "Las verduras se pican en trocitos todos iguales, y se echan en una sarten con un poco de aceite. Cuando esten pochadas se le echan los tomates picados con batidora.",
+        "Cuando esten echadas las verduras se las echa a las lentejas, se remueven. Se pica un poco de hinojo verde, se le echa junto con la pimienta y la nuez moscada al gusto. Se mueve y finalmente se rectifica de sal."
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "piononos",
+      "titulo": "Piononos",
+      "imagen": "assets/img/receta16.jpg",
+      "imagenThumb": "assets/img/receta16.jpg",
+      "html": "recetas/receta16.html",
+      "pdf": "assets/pdf/receta16.pdf",
+      "tiempo": 60,
+      "tiempoLabel": "60 min",
+      "tipo": "dulce",
+      "dificultad": "Dificil",
+      "comensales": 4,
+      "descripcion": "Piononos de Santa Fe, bizcocho enrollado con crema pastelera y calao de canela.",
+      "ingredientes": [
+        {
+          "nombre": "Rama de canela",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Bizcocho (bombeo para piononos)",
+          "cantidad": "1 plancha"
+        },
+        {
+          "nombre": "Limon (zumo)",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Naranjas (zumo)",
+          "cantidad": "2/3 unidad"
+        },
+        {
+          "nombre": "Chorreon de anis",
+          "cantidad": "1 unidad"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "150 g"
+        },
+        {
+          "nombre": "Agua",
+          "cantidad": "300 ml"
+        },
+        {
+          "nombre": "Crema pastelera",
+          "cantidad": "para rellenar"
+        },
+        {
+          "nombre": "Canela en polvo",
+          "cantidad": "para decorar"
+        }
+      ],
+      "pasos": [
+        "Para el calao de pionono: en una olla se echa la rama de canela, zumo de limon y naranjas, 2 vasos de agua y un chorreon de anis. Se cuece unos 20 min.",
+        "El bizcocho se corta en 3 partes a lo largo. Se le echa por encima de la parte fea la crema pastelera y un poco de canela, se enrollan con el papel y se ponen en una bandeja en el frigorifico un dia.",
+        "Al dia siguiente se le quita el papel, se cortan en porciones unos 3 cm. Se mojan en el calao por las 2 partes, y se ponen en una bandeja.",
+        "Con una manga pastelera se cubren por encima con la crema pastelera. Se le echa un montoncito de azucar y se quema con la plancha de gratinar."
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "bacalao-almendra-crujiente-jamon",
+      "titulo": "Bacalao a la Almendra Crujiente de Jamon con Mini Pisto",
+      "imagen": "assets/img/receta17.jpg",
+      "imagenThumb": "assets/img/receta17.jpg",
+      "html": "recetas/receta17.html",
+      "pdf": "assets/pdf/receta17.pdf",
+      "tiempo": 60,
+      "tiempoLabel": "60 min",
+      "tipo": "salado",
+      "dificultad": "Media",
+      "comensales": 4,
+      "descripcion": "Bacalao rebozado en almendra con tempura de cerveza sobre cama de pisto casero y virutas de jamon crujiente.",
+      "ingredientes": [
+        {
+          "nombre": "Lomos de bacalao",
+          "cantidad": "4 porciones"
+        },
+        {
+          "nombre": "Jamon en virutas",
+          "cantidad": "100 g"
+        },
+        {
+          "nombre": "Almendras picadas",
+          "cantidad": "130 g"
+        },
+        {
+          "nombre": "Harina (tempura)",
+          "cantidad": "170 g"
+        },
+        {
+          "nombre": "Sal",
+          "cantidad": "1 pizca"
+        },
+        {
+          "nombre": "Cerveza",
+          "cantidad": "1 vaso"
+        },
+        {
+          "nombre": "Tomate",
+          "cantidad": "650 g"
+        },
+        {
+          "nombre": "Calabaza",
+          "cantidad": "330 g"
+        },
+        {
+          "nombre": "Calabacin",
+          "cantidad": "1/2 unidad"
+        },
+        {
+          "nombre": "Cabeza de ajos",
+          "cantidad": "1/3 unidad"
+        },
+        {
+          "nombre": "Pimientos rojos grandes",
+          "cantidad": "1-2 unidades"
+        },
+        {
+          "nombre": "Pimientos verdes",
+          "cantidad": "2-3 unidades"
+        },
+        {
+          "nombre": "Cebolla",
+          "cantidad": "330 g"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "cantidad": "c.n."
+        },
+        {
+          "nombre": "Hierbas provenzales",
+          "cantidad": "al gusto"
+        },
+        {
+          "nombre": "Azucar",
+          "cantidad": "1/3 cucharada"
+        },
+        {
+          "nombre": "Sal",
+          "cantidad": "1/3 cucharada"
+        }
+      ],
+      "pasos": [
+        "Tempura: Bate con la batidora harina, sal y cerveza hasta que emulsione. La mezcla debe quedar suave y sin grumos.",
+        "Bacalao: Moja los lomos por la parte sin piel en tempura, reboza con almendra picada. Frie en sarten con la piel hacia arriba y almendra hacia abajo. Cuando dore, dale la vuelta. Luego 15 min al horno a 180 grados.",
+        "Virutas de jamon: Sofrie en sarten aparte hasta que esten crujientes.",
+        "Pisto: Pica la verdura igual. Pela tomates con agua caliente. Sofrie cebolla con hierbas provenzales, anade verduras menos tomate. El tomate frielo aparte con azucar y sal hasta reducir, luego mezclalo con las verduras.",
+        "Presentacion: Cama de pisto, bacalao encima y virutas de jamon por encima."
       ]
     }
   ]
